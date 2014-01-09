@@ -11,5 +11,4 @@ bower.json
 .jshintrc
 .tmp/*
 Gruntfile.js
-package.json
 node_modules/*
