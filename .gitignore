@@ -1,0 +1,15 @@
+.idea/*
+angulardart-todo.iml
+
+app/bower_components
+test/*
+
+bower.json
+.bowerrc
+.editorconfig
+.gitattributes
+.jshintrc
+.tmp/*
+Gruntfile.js
+package.json
+node_modules/*
