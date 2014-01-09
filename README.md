@@ -1,1 +1,1 @@
-# Running``` bashnpm installbower installgrunt serve```Open Chromium and go to http://127.0.0.1:9000/
+# AngularDart - TodoThis a simple todo app example using AngularDart.More information about AngularDart:https://github.com/angular/angular.dart.tutorial/wiki/Welcome-to-angular# Running``` bashnpm installbower installgrunt serve```Open Chromium and go to http://127.0.0.1:9000/
