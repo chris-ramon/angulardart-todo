@@ -8,7 +8,6 @@ app/404.html
 app/robots.txt
 test/*
 
-.bowerrc
 .editorconfig
 .gitattributes
 .jshintrc
