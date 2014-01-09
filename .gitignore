@@ -4,11 +4,9 @@ angulardart-todo.iml
 app/bower_components
 test/*
 
-bower.json
 .bowerrc
 .editorconfig
 .gitattributes
 .jshintrc
 .tmp/*
-Gruntfile.js
 node_modules/*
