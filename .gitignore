@@ -2,6 +2,9 @@
 angulardart-todo.iml
 
 app/bower_components
+app/.htaccess
+app/404.html
+app/robots.txt
 test/*
 
 .bowerrc
