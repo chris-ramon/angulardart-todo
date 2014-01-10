@@ -1,0 +1,1 @@
+library item;class Item {  int _id;  String text;  bool done;  Item([int this._id, String this.text, bool this.done = false]);  get id => _id;  clone() => new Item(_id, text, done);  clear() {    _id = '';    text = '';    done = false;  }}

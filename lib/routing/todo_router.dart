@@ -1,0 +1,1 @@
+library todo_router.dart;import 'package:angular/angular.dart';class TodoRouteInitializer extends RouteInitializer {  init(Router router, ViewFactory view) {    router.root      ..addRoute(        name: 'list',        path: '/list',        enter: view('view/todoList.html'),        defaultRoute: true    );  }}
