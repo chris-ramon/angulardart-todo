@@ -1,0 +1,1 @@
+library message;import 'package:uuid/uuid.dart';class Message {  int _id;  String text;  Message(this.text) {    var uuid = new Uuid();    _id = uuid.v4();  }  get id => _id;}
