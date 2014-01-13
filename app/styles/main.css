@@ -58,6 +58,10 @@ li {
     margin-bottom: 10px;
 }
 
+#newTodoBtn {
+    margin: 15px 0;
+}
+
 /* Supporting marketing content */
 .marketing {
     margin: 40px 0;
