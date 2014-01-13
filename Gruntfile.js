@@ -22,6 +22,7 @@ module.exports = function (grunt) {
         yeoman: {
             // Configurable paths
             app: 'app',
+            lib: '../lib',
             dist: 'dist'
         },
 
@@ -56,6 +57,7 @@ module.exports = function (grunt) {
                 files: [
                     '<%= yeoman.app %>/{,*/}*.html',
                     '<%= yeoman.app %>/main.dart',
+                    './lib/{,*/}/*.dart',
                     '.tmp/styles/{,*/}*.css',
                     '<%= yeoman.app %>/images/{,*/}*.{gif,jpeg,jpg,png,svg,webp}'
                 ]
